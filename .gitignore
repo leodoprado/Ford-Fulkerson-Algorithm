@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Ignore Pipfile and Pipfile.lock
+Pipfile.lock
+
+# Ignore python version
+.python-version
+
+# Ignore vscode Config
+.vscode
